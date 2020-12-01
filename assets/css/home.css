@@ -1,0 +1,9 @@
+.table-container {
+	display: flex;
+	justify-content: center;
+	margin-top: 1rem;
+}
+.table-container table {
+	width: 80vw;
+	border: 1px solid #454d55;
+}
